@@ -1,1 +1,1 @@
-# couchpotato.to
+# couchpota.to
